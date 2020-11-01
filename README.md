@@ -36,8 +36,6 @@
 [![Linkedin: raihanameen](https://img.shields.io/badge/-raihanameen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raihanameen/)](https://www.linkedin.com/in/raihanameen/)
 [![GitHub raihanameen](https://img.shields.io/github/followers/raihanameen?label=follow&style=social)](https://github.com/raihanameen)
 
-<br />
-
 ### Languages and Tools:
 <code><img height="20" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png"></code>
@@ -64,11 +62,8 @@
   </summary>
 </details>
 
-<br/>
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-# raihanameen
