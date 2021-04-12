@@ -25,7 +25,7 @@
 
 ## I'm a Software Developer!!
 
-- 🔭 I've been a Backend Developer at Hexaware for almost 2 years.
+- 🔭 I've been a Full Stack Developer at Hexaware for almost 2 years.
 - 🌱 Experienced with Spring Boot, Django, and Flask.
 - 👯 Worked with technologies like Kafka, Docker, Kubernetes with Microservices based Applications.
 - 💜 Currently big into Flutter.
