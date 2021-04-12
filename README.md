@@ -26,11 +26,12 @@
 
 ## I'm a Software Developer!!
 
-- 🔭 I just started my career in software development and just have worked on a few projects yet, looking forward to contribute more.
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to build PCs, develop app, play cricket and talk tech specially EVs
+- 🔭 I've been a Backend Developer at Hexaware for almost 2 years.
+- 🌱 Experienced with Spring Boot, Django, and Flask.
+- 👯 Worked with technologies like Kafka, Docker, Kubernetes with Microservices based Applications.
+- 💜 Currently big into Flutter.
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to build PCs, develop apps, play cricket and talk tech specially EVs
 
 [![Twitter: raihan__ameen](https://img.shields.io/twitter/follow/raihan__ameen?style=social)](https://twitter.com/raihan__ameen)
 [![Linkedin: raihanameen](https://img.shields.io/badge/-raihanameen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raihanameen/)](https://www.linkedin.com/in/raihanameen/)
