@@ -43,6 +43,7 @@
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [How to run WordPress + Docker | Containerized Development](https://raihanameen.hashnode.dev/how-to-run-wordpress-docker-or-containerized-development)
 - [10 Things I wish I had known before starting my college](https://raihanameen.hashnode.dev/10-things-i-wish-i-had-known-before-starting-my-college)
 <!-- BLOG-POST-LIST:END -->
 
