@@ -6,10 +6,10 @@
 ![alt text](https://github.com/raihanameen/raihanameen/blob/main/banner.png)
 
 
-* 🔭 I am a Full Stack Developer with almost 2 years of Professional Experience.
+* 🔭 I am a Full Stack Developer with about 2 years of Professional Experience.
 * 🌱 Experienced with frameworks like Spring Boot, Django, and Flask.
 * 👯 Worked with technologies like Kafka, Docker, Kubernetes with Microservices based Applications.
-* 💜 Currently big into Flutter.
+* 💜 Currently attracted towards Cross Platform Application using Flutter.
 * 🥅 2021 Goals: Contribute more to Open Source projects
 * ⚡ Fun fact: I love to build PCs, develop apps, play cricket and talk tech specially about EVs
 
