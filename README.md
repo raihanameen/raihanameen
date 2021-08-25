@@ -3,7 +3,7 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30"  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>][Instagram]
 
-![alt text](https://github.com/raihanameen/raihanameen/blob/main/Cover.png)
+![alt text](https://github.com/raihanameen/raihanameen/blob/main/cover.png)
 
 
 * 🔭 I am a Full Stack Developer with almost 2 years of Professional Experience.
